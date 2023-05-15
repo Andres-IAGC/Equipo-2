@@ -87,7 +87,7 @@ print('Led apagado')
 
 ```
 
-![]([https://www.snapon.co.za/images/thumbs/default-image_550.png](https://scontent.ftij1-2.fna.fbcdn.net/v/t1.15752-9/344300433_256959086837359_952338236435345702_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=bBfD9If0DjYAX8lo8CL&_nc_ht=scontent.ftij1-2.fna&oh=03_AdREC2fYyh8bN-zrEjFjlTBdyQ0eZrONQfkC-qv5NfWijg&oe=648946F0))
+![](https://scontent.ftij1-2.fna.fbcdn.net/v/t1.15752-9/344300433_256959086837359_952338236435345702_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=bBfD9If0DjYAX8lo8CL&_nc_ht=scontent.ftij1-2.fna&oh=03_AdREC2fYyh8bN-zrEjFjlTBdyQ0eZrONQfkC-qv5NfWijg&oe=648946F0)
 
 # CONCLUSIONES
 _esta es conclusión_
